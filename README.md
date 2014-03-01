@@ -1,10 +1,14 @@
 LatchWHMCS v1.0 (admin panel)
 ==================
 
+***
+
 Keep the author active, buy it some coffee <3
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=korros&url=https%3A%2F%2Fgithub.com%2FKorrosivo%2Flatch-plugin-whmcs) 
 [![Donate some coffee](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U557BVZEZ24DU) 
+
+***
 
 ##LatchWHMCS installation guide
 
@@ -43,3 +47,12 @@ Keep the author active, buy it some coffee <3
 ![Pair an account](http://i61.tinypic.com/23h7xw5.png)
 ####UNPAIR AN ACCOUNT
 ![Unpair an account](http://i62.tinypic.com/33ysu0w.png)
+
+
+###ROADMAP
+***
+Things that the addon module can't do (at this moment):
+* Use Latch's OTP feature.
+* Protect customer accounts (just admins from now)
+
+***
